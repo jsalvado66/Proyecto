@@ -1,0 +1,53 @@
+body{
+    background: rgb(237, 241, 235);
+}
+
+.principal{
+    border: solid 1px black;
+    width: 90%;
+    margin: 0 auto;
+    padding: 5px;
+}
+
+fieldset{
+    margin-bottom: 20px;
+}
+
+legend{
+    border: solid 1px burlywood;
+    padding: 5px;
+    font-weight: bold ;
+    border-radius: 10px;
+    background: rgb(191, 236, 210);
+   
+}
+
+li{
+    font-size: 17px;
+    font-weight:normal;
+
+}
+
+#mifoto{
+    margin: 5px;
+    border: solid 3px rgb(104, 113, 241);
+    border-radius: 15px 
+}
+
+button  {
+    border: solid 2px burlywood;
+    padding: 2px;
+    font-weight: bold ;
+    background: lightblue;
+}
+
+input  {
+    background: rgb(206, 206, 209);
+}
+
+h1{
+    color: rgb(27, 7, 139);  
+}
+h2{
+    text-align:center;
+}
